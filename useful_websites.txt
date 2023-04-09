@@ -1,1 +1,3 @@
 https://samplefocus.com/samples/bass-drop
+https://www.freecodecamp.org/news/error-failed-to-push-some-refs-to-how-to-fix-in-git/#:~:text=To%20fix%20the%20error%2C%20go%20on%20and%20run,local%20repo%27s%20current%20state%20to%20the%20remote%20branch.
+https://www.freecodecamp.org/news/git-push-local-branch-to-remote-how-to-publish-a-new-branch-in-git/
